@@ -1,9 +1,9 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
 # About
 
-Second page, here to prove the sitemap picks up more than the homepage.
+REVISION TWO. This sentence was changed so the sync has a real content edit to
+detect. If a run reports updatedContent for this page, the hash tier worked.
