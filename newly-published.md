@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Newly published
+title: Newly published page for website sync
 permalink: /newly-published/
 ---
 
