@@ -1,12 +1,11 @@
 ---
 layout: default
-title: About 234
-permalink: /about/
+title: About
+permalink: /about-us/
 ---
 
 # About
 
-REVISION THREE. Second page, here to prove the sitemap picks up more than the
+REVISION FOUR. Second page, here to prove the sitemap picks up more than the
 homepage. This sentence changed so a sync has a real content edit to detect.
 
-Lorem ipsum domigo peretiato
