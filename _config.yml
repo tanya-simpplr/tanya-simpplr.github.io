@@ -1,0 +1,8 @@
+title: kb-test
+description: Test site for GitHub Pages
+url: https://tanya-simpplr.github.io
+baseurl: /kb-test
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-sitemap
