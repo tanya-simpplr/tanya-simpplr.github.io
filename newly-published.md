@@ -4,6 +4,6 @@ title: Some page
 permalink: /newly-published/
 ---
 
-# Newly published
+# Some page content
 
 This has newer content.
