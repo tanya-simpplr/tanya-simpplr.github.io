@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Newly published page
+title: Changed title
 permalink: /newly-published/
 ---
 
-# Newly published page content
+# Changed page content
 
-This has newer content.
+This has newer newer content.
